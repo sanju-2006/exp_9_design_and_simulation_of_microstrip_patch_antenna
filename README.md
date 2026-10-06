@@ -120,21 +120,15 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Observations
 
-*(Include your own table / plots relevant to the experiment.)*
+<img width="522" height="597" alt="image" src="https://github.com/user-attachments/assets/cb151c86-0c86-4f82-ae99-66b79863536e" />
 
 
 
 ### Graphs
 
 
-* S11 vs frequency
-*(Include your own graph)*
+<img width="537" height="480" alt="image" src="https://github.com/user-attachments/assets/7ce94bc2-b0c4-4b00-996b-08cba349206e" />
 
-* VSWR vs frequency
-*(Include your own graph)*
-
-* 2-D E-plane and H-plane radiation patterns
-*(Include your own graph)*
 
 
 ---
@@ -149,14 +143,13 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 
 ## Result
 
-Resonant Frequency = GHz  
+Resonant Frequency = 2.4GHz
 
-Return loss = dB
+Return loss = -20dB
 
-VSWR = 
+VSWR = 1.22
 
-Gain = 
-
+Gain = 2.15DBI
 
 ## Conclusion
 
